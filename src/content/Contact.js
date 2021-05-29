@@ -1,9 +1,9 @@
 import React from "react";
-import "./About.css";
-export default function About() {
+import "./Contact.css";
+export default function Contact() {
   return (
     <div className="main-section">
-      <h1>About Me</h1>
+      <h1>Contact Me</h1>
       <p>
         Contrary to popular belief, Lorem Ipsum is not simply random text. It
         has roots in a piece of classical Latin literature from 45 BC, making it

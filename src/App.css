@@ -3,5 +3,8 @@
   position: relative;
   z-index: 1;
   background-color: yellow;
-  height: 800px;
+  height: 1200px;
+}
+.content {
+  padding-top: 10px;
 }

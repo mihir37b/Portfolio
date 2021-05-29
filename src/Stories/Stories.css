@@ -1,0 +1,31 @@
+.story-container {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-color: rgba(230, 230, 230, 0.7);
+  background-blend-mode: multiply;
+  font-family: "Lato";
+  font-weight: 100;
+}
+
+.story {
+  background-color: white;
+  width: 450px;
+  height: 600px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+}
+
+/* .story .title img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 10px;
+} */
+.title {
+  margin: 10px 15px;
+}
