@@ -26,9 +26,15 @@
   object-fit: cover;
   margin: 10px;
 } */
-h5 {
+.name {
   color: white;
   margin-left: -300px;
+  margin-bottom: 15px;
+}
+.date {
+  color: white;
+  margin-top: -10px;
+  margin-left: -340px;
 }
 .story-text {
   color: white;

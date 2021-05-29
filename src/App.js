@@ -19,6 +19,17 @@ function App() {
   return (
     <div className="App">
       <MyStory openStory={openStories} />
+      <h2 className="intro">
+        in a piece of classical Latin literature from 45 BC, making it over 2000
+        years old. Richard McClintock, a Latin professor at Hampden-Sydney
+        College in Virginia, looked up one of the more obscure Latin words,
+        consectetur, from a Lorem Ipsum passage, and going through the cites
+        ohas roots in a piece of classical Latin literature from 45 BC, making
+        it over 2000 years old. Richard McClintock, a Latin professor at
+        Hampden-Sydney College in Virginia, looked up one of the more obscure
+        Latin words, consectetur, from a Lorem Ipsum passage, and going through
+        the cites o
+      </h2>
       <div className="content">
         <Skills />
         <Projects />
