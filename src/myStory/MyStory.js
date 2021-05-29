@@ -5,9 +5,9 @@ import Navbar from "../NavBar";
 
 export default function MyStory({ openStory }) {
   return (
-    <div onClick={(e) => openStory()} className="cd-container">
+    <div className="cd-container">
       <div className="cover-image">
-        <img src={profilePic} alt="headshot" />
+        <img src={profilePic} onClick={(e) => openStory()} alt="headshot" />
       </div>
       <h1 className="test">Mihir Bommakanti</h1>
       <Navbar />
