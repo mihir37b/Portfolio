@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  align-items: right;
+  flex-direction: row;
+
+  justify-content: flex-end;
+  padding-right: 20px;
+  padding-top: 15px;
+  margin-top: -60px;
+}
+
+.navbar-item {
+  display: flex;
+  font-family: "Lato";
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  color: inherit;
+  text-decoration: inherit;
+  text-transform: uppercase;
+
+  padding-top: 0px;
+}
