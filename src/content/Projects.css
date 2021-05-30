@@ -5,3 +5,26 @@
   margin: auto;
   align-items: right;
 }
+.items {
+  display: flex;
+}
+
+* {
+  color: black;
+}
+
+.card {
+  width: 25%;
+  height: 350px;
+  margin: 2.5%;
+  background-color: white;
+  padding: 20px 20px;
+  border-radius: 10%;
+}
+.card-pic {
+  height: 150%;
+  width: 100%;
+}
+.media {
+  border-style: l;
+}

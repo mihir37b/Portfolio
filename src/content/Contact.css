@@ -5,3 +5,20 @@
   margin: auto;
   align-items: right;
 }
+
+i {
+  font-size: 7em;
+  margin: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+}
