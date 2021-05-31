@@ -21,7 +21,7 @@ function App() {
       <MyStory openStory={openStories} />
       <h2 className="intro">
         <p>
-          Hello, my name is Mihir and I am a software engineer form New York. I
+          Hello, my name is Mihir and I am a software engineer from New York. I
           previously worked in the healthcare industry, but after a while, I
           realized it wasn't the industry for me. Click the picture of my face
           to learn more about the transition.{" "}
