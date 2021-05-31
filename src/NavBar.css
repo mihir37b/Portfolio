@@ -6,7 +6,7 @@
   justify-content: flex-end;
   padding-right: 20px;
   padding-top: 15px;
-  margin-top: -60px;
+  margin-top: -65px;
 }
 
 .navbar-item {
@@ -18,4 +18,16 @@
   color: inherit;
   text-decoration: inherit;
   padding-top: 0px;
+}
+.ellipses {
+  font-size: 1.5em;
+  position: absolute;
+  top: 80px;
+  right: 20px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 790px) {
+  .navbar-item {
+    display: none;
+  }
 }

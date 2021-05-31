@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import "./NavBar.css";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEllipsisH } from "@fortawesome/free-solid-svg-icons";
 export default function NavBar() {
+  const [showMenu, setShowMenu] = useState(false);
   return (
     <div>
       <section className="navbar">

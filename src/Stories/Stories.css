@@ -17,6 +17,7 @@
   margin: auto;
   margin-top: 50px;
   display: flex;
+  border-radius: 20px;
 }
 
 /* .story .title img {
@@ -44,4 +45,11 @@
 .story img {
   width: 100%;
   padding-top: 20%;
+}
+
+@media screen and (min-width: 0px) and (max-width: 730px) {
+  .story {
+    height: 80%;
+    width: 100%;
+  }
 }
