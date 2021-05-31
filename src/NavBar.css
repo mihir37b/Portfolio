@@ -18,6 +18,7 @@
   color: inherit;
   text-decoration: inherit;
   padding-top: 0px;
+  cursor: pointer;
 }
 .ellipses {
   font-size: 1.5em;

@@ -2,7 +2,7 @@ import React from "react";
 import "./Contact.css";
 export default function Contact() {
   return (
-    <div className="main-section">
+    <div className="main-section" id="contacts">
       <h1>Contact Me</h1>
       <div className="icons">
         <a href="https://www.linkedin.com/in/mihir-bommakanti/">

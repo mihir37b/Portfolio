@@ -24,6 +24,7 @@
   background-clip: padding-box;
   border: solid 3px transparent;
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .cover-image::before {

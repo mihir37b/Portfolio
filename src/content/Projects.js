@@ -30,7 +30,7 @@ let projectInfo = [
 
 export default function Projects() {
   return (
-    <div className="card-list">
+    <div className="card-list" id="projects">
       <h1>My Projects</h1>
       <div className="one">
         {projectInfo.map(({ title, desc, img, projectLink, github }) => (

@@ -3,7 +3,7 @@ import "./Skills.css";
 
 export default function Skills() {
   return (
-    <div className="main-section">
+    <div className="main-section" id="skills">
       <h1>My Skills</h1>
       <div className="icons">
         <i class="devicon-react-original-wordmark colored"></i>
