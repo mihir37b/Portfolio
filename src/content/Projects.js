@@ -23,7 +23,7 @@ let projectInfo = [
     title: "How's My Air?",
     desc: "A web app that allows users to see the pollutant levels for any location visualized. More information about each pollutant is provided.",
     img: howsmyair,
-    projectLink: "https://60b1439b217ef80008d19605--howsmyair.netlify.app/",
+    projectLink: "https://60b16c86e854fe00076e0493--howsmyair.netlify.app/",
     github: "https://github.com/mihir37b/PollutionViz",
   },
 ];
