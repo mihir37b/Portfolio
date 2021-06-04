@@ -1,4 +1,5 @@
 .story-container {
+  display: flex;
   position: fixed;
   top: 0px;
   width: 100%;
@@ -47,9 +48,24 @@
   padding-top: 20%;
 }
 
-@media screen and (min-width: 0px) and (max-width: 730px) {
+@media screen and (min-width: 321px) and (max-width: 400px) {
+  .name {
+    margin-left: -250px;
+  }
+  .date {
+    margin-left: -280px;
+  }
+}
+@media screen and (min-width: 0px) and (max-width: 320px) {
   .story {
-    height: 80%;
+    height: 78%;
     width: 100%;
+    font-size: 0.9rem;
+  }
+  .name {
+    margin-left: -170px;
+  }
+  .date {
+    margin-left: -200px;
   }
 }
