@@ -27,9 +27,9 @@ function App() {
           to learn more about my transition to tech{" "}
         </p>
         I've worked on a few projects which can be found below and I am eager to
-        work on more. I enjoy working on the frontend or backend but I enjoy
-        working with React the most. I have also taken a recent interest in
-        understanding the reasoning behind User Experience.{" "}
+        work on more. I enjoy working with React, Redux and Express.js but I am
+        always open to learning more. I have also taken a recent interest in
+        understanding the science behind User Experience.{" "}
         <a classname="medium" href="https://mihir37b.medium.com/">
           Click here to read more.
         </a>
