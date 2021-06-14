@@ -9,7 +9,7 @@ export default function Skills() {
         <i class="devicon-react-original-wordmark colored"></i>
         <i class="devicon-redux-original colored"></i>
         <i class="devicon-css3-plain-wordmark colored"></i>
-        <i class="devicon-html5-plain-wordmark colored"></i>
+        <i class="devicon-html5-plain-wordmark "></i>
       </div>
       <div className="icons">
         <i class="devicon-postgresql-plain-wordmark colored"></i>
